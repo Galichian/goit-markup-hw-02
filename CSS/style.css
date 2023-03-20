@@ -1,0 +1,84 @@
+root {}
+
+body {
+    font-family: "roboto", sans-serif;
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.header-logo,
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+.header-link {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.address {
+    font-style: normal;
+}
+
+.address-link {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.heros-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+.heros-button {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+}
+
+.section-advantages-style,
+.section-team-names {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.02;
+    letter-spacing: 0.02em;
+}
+
+.section-advantages-text,
+.section-team-prof {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.section-second-title,
+.section-team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+}
+
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
